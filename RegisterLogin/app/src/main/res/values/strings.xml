@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RegisterLogin</string>
+    <string name="btnSubmit">SUBMIT</string>
+    <string name="registration_page">Registration Page</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="phone">Phone</string>
+    <string name="login">Login</string>
+</resources>
